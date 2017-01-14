@@ -51,7 +51,7 @@ _Letters are shown capitalized for readability only._  _Capslock should be off._
 | sudo [command] | Run command with the security privileges of the superuser (Super User DO) |
 | open [file] | Opens a file ( as if you double clicked it ) |
 | top | Displays active processes. Press q to quit |
-| nano [file] | Opens the file using the nano editor |
+| atom [file] | Opens the file using the atom editor |
 | vim [file] | Opens the file using the vim editor |
 | clear |  Clear screen |
 | reset |  Resets the terminal display |
